@@ -9,6 +9,7 @@ namespace GUI_New
     /// </summary>
     public partial class App : Application
     {
+
     }
 
 }
